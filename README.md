@@ -1,11 +1,11 @@
 # <div align="center">**Hello, my name is** <span style= "color: red">**Jason**</span></div>
 
- <div align="center"> I'm a junior web dev still learning 👨‍💻  </div>  
+ <div align="center" style="font-size : 16px"> I'm a junior web dev still learning 👨‍💻</div>  
 
-<div align="center"> I also do scripting in "lua" for Fivem in my spare time.</div></br>
+<div align="center" style="font-size : 16px"> I also do scripting in "lua" for Fivem in my spare time.</div></br>
 
 
-<div align="center"> <b>Where can you find me:</b>
+<div align="center" style="font-size : 20px"> <b>Where can you find me:</b>
 
 </br>[![](./img/Logo_Discord.png)](https://discord.gg/J0K3RY#4801)  
 
